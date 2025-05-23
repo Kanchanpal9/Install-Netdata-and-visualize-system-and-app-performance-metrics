@@ -1,7 +1,9 @@
  Objective
+ 
 Install Netdata using Docker and visualize real-time system and application performance metrics such as CPU, memory, disk, and container usage.
 
 Tools Used
+
 Netdata – Open-source real-time performance monitoring tool
 
 Docker – Container runtime environment
